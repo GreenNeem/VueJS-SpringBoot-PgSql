@@ -1,6 +1,7 @@
 # VueJS
 Credit to all Reference Pages and Videos.
-<br>This project will show data that is stored in database on vue page by using springBoot backend.
+<br>This project will show data on vue page by using springBoot backend.
+<br>These data will be retrieved from database.
 
 The project informations are as following.
 <br>1.PostgreSQl
